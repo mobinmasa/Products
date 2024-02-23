@@ -1,0 +1,16 @@
+
+body
+{
+    font-family:'Times New Roman', Times, serif;
+    overflow-y: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #c7d0e4;
+    height: 100vh;
+}
+
+.font
+{
+    font-size: 23%;
+}

@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tags</title>
+    <title>Show Posts</title>
 </head>
 <body>
-    <h1>TagsPage</h1>
+
 </body>
 </html>
